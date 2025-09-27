@@ -1,7 +1,7 @@
 # 💳 Payment Form
 
 A simple and secure **Payment Form** built using modern web technologies.  
-This project demonstrates form validation, responsive UI design, and integration with payment gateways (like Stripe/PayPal).  
+This project demonstrates form validation, responsive UI design, and integration with payment Gateways (like Stripe/PayPal).  
 
 ---
 
@@ -22,3 +22,4 @@ payment-form/
 │── script.js         # Form validation & interactivity
 │── /assets           # Images, icons, etc.
 │── README.md         # Project documentation
+
